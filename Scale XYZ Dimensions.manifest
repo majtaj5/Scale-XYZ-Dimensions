@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Piotr Krol",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"39b289eb-1f23-437c-915b-371b9d64eb38",
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"sourcewindows":	"Scale XYZ Dimensions.vcxproj",
+	"sourcemac":	"Scale XYZ Dimensions.xcodeproj"
+}
